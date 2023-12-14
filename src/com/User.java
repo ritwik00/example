@@ -16,5 +16,5 @@ public class User {
 		this.userName = userName;
 	}
 	
-
+//Encapsulated class
 }
